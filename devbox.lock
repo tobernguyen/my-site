@@ -1,0 +1,21 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "dart-sass@latest": {
+      "last_modified": "2023-09-10T10:53:27Z",
+      "resolved": "github:NixOS/nixpkgs/78058d810644f5ed276804ce7ea9e82d92bee293#dart-sass",
+      "source": "devbox-search",
+      "version": "1.66.1"
+    },
+    "go@latest": {
+      "last_modified": "2023-09-10T10:53:27Z",
+      "resolved": "github:NixOS/nixpkgs/78058d810644f5ed276804ce7ea9e82d92bee293#go_1_21",
+      "source": "devbox-search",
+      "version": "1.21.1"
+    },
+    "hugo": {
+      "resolved": "github:NixOS/nixpkgs/f80ac848e3d6f0c12c52758c0f25c10c97ca3b62#hugo",
+      "source": "nixpkg"
+    }
+  }
+}
