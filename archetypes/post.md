@@ -2,14 +2,14 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 description: "Desc Text."
-draft: true
-author: "Me"
+draft: false
+author: "Long Nguyen"
+showToc: false
+TocOpen: false
 # weight: 1
 # aliases: ["/first"]
 # tags: ["first"]
 # author: ["Me", "You"] # multiple authors
-showToc: true
-TocOpen: false
 # hidemeta: false
 # comments: false
 # canonicalURL: "https://canonical.url/to/page"

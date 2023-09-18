@@ -1,9 +1,8 @@
 ---
 title: "Third time is the charm. Hello Worlddd!"
 date: 2023-09-16T21:51:25-06:00
-# description: "Desc Text."
 draft: false
-author: "Long"
+author: "Long Nguyen"
 # weight: 1
 # aliases: ["/first"]
 # tags: ["first"]
